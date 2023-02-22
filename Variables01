@@ -1,1 +1,21 @@
 #Code goes here
+
+#CODE
+# i am coding
+console = "ps4"
+age = 34.3
+email = "kev@zfc.co.uk"
+name = "kvahney"
+
+#above are 2 variables 
+#one is called "email"
+#other is called "name"
+#both contain data
+
+print(console)
+print(email)
+print(name)
+print(age)
+
+#print is a function
+#it displays texts to the screen
