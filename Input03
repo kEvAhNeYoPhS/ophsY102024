@@ -1,0 +1,11 @@
+Team1name = "suns"
+Team2name = "celtics"
+
+FreeThrow = 1
+TwoPointer = 2
+ThreePointer = 3
+
+#In the game of basketball 
+#The points of the game will never change
+#It makes sense 
+#To deifne them as CONSTANTS
