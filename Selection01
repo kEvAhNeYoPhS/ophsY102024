@@ -1,0 +1,15 @@
+#Selection
+
+Team1point = 9
+Team2point = 14
+Team3point = 3
+
+
+if Team1point > 10:
+  print("hello")
+
+if Team2point < 15:
+  print("goodbye")
+
+if Team3point >= 15:
+  print("losing")
