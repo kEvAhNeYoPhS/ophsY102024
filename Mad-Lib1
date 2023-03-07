@@ -1,0 +1,8 @@
+adjective1 = input("enter an adjective")
+nationality = input("enter a nationality")
+person1 = input("enter a name")
+noun1 = input("enter a noun")
+adjective2 = input("enter an adjective")
+noun2 = input("enter a noun")
+
+print("on a misty and cold day in" , noun1 , person1 , "was in desperate need to get the" , adjective1 , noun2 ,"which could satisfy his hunger to be able to make it out")
