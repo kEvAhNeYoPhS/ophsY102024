@@ -1,0 +1,5 @@
+baby = str(input("has your baby been born yet"))
+if baby ==("y"):
+  print("congrats")
+else :
+  print("call us when you have news")
