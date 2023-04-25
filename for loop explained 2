@@ -1,0 +1,4 @@
+# range(START, STOP, STEP)
+x = int(input("enter a number"))
+for holdingNumbersFromRange in range(0, 22, x):
+  print("This for loop will display", holdingNumbersFromRange)
