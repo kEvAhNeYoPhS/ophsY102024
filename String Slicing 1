@@ -1,0 +1,5 @@
+#LEN IS HOW MANY LETTERS THERE ARE IN A WORD
+
+name = str(input("whats your name"))
+lengthName = len(name)
+print(lengthName)
