@@ -1,0 +1,18 @@
+#1D Array or list explained
+#Below is a list
+
+pouch = ["key", "comb", "phone"]
+print(pouch) #Prints whole list
+print(pouch[2]) #Displays different index
+print(pouch[0]) # Displayes different index
+print(pouch[1:4]) #Displays specific index
+
+#Appending to a list
+
+x = "cbk" #New item
+pouch.append(x) #Append new item to list
+print(pouch) #Print list
+
+k = str(input("enter item"))
+pouch.append(k) #Append new item to list
+print(pouch) #Print list
